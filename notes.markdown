@@ -10,7 +10,9 @@ include-before: |
   
   So this is the first attempt to create the first guide for a Shadowrun route to get other people into running Shadowrun "Any%". For the better or worse. We will see...
   
-  Any contributions are welcome! Tell me what is wrong and what can be done better or even submit your changes as soon as I established a [github page](github.com).
+  Any contributions are welcome! Tell me what is wrong and what can be done 
+  better by submitting changes via [github page](https://github.com/glitchedDoku/shadowrun_snes_notes) or the 
+  [forum](https://www.speedrun.com/shadowrun_snes/thread/rpdxf).
   
   **Disclaimer**: This is a work in progress document.
   While writing this route guide [Elastoid](https://www.twitch.tv/elastoid) broke the [world record again](https://www.twitch.tv/videos/757197125). The route for both records should be the same (Is this really true?).
@@ -106,7 +108,8 @@ Time `0:01:45` Delta: `01:00`
 * Go west and pick up **Dog Colar**
 * Go west
 * Go south
-* Pick up **Beretta Pistol** and equip it
+* Pick up **Beretta Pistol** and equip it and equip **Shades** (equipping
+  **Shades** will leave inventory
 * Kill orc
 * **Examine** Orc and pick up **Leather Jacket**
 * Run west and [**talk** to Dog]()
@@ -148,13 +151,14 @@ Time `0:04:17` Delta `00:44`
 * Enter Glutman's office building
 * Enter second room (right-hand side)
 * Pick up **Cyberdeck** (Pick-up range quite long)
-* Leave + equip **ID badge** and **Shades**
+* Leave + equip **Leather Jacket** and **ID badge** (equipping **ID badge** will
+  leave inventory)
 
 #### Morgue (Second Time)
 * Go northeast to morgue (upper [sidewalk]())
 * Enter morgue
-* Open Door
 * **Ask about** *Grinder* to lower right of the both **Mortician**s
+* Open door while mortician is walking to the **Filing Cabinet**s
 * Move between both **Filing Cabinet**s
 * First **Filling Cabinet**
 	* **Open** - **Examine** - pick up **Credstick**
@@ -200,18 +204,20 @@ Time `0:06:56` Delta `01:36`
 
 #### Second Fight
 
-* Shoot **Heavy Dude** until he drops
+* Move a little bit north
+* Deal at least 1 dmg to **Heavy Dude** to [turn him red]() (he will move south)
+* Kill him from a safe distance
 * **Talk to** **Arena owner**
 
 #### Third Fight
 * Strat 1:
 	* **Use** **Grenade** on **Heavy Dude** to [turn him red]() (at least 6 dmg needed)
-	* Kill him from safe distance
+	* Kill him from a safe distance
 	* **Ask about** *King*
 
 * Strat 2:
 	* Shoot at **Heavy Dude** until he [turns red]() (at least 6 dmg needed)
-	* Kill him from safe distance
+	* Kill him from a safe distance
 	* **Ask about** *King*
 	
 #### King Fight
@@ -334,6 +340,10 @@ Time `0:19:16` Delta `05:15`
 * Enter next room
 * **Use** five **Grenades** on **Gang Leader**
 * **Use** one **Grenade** on **Heavy Dude** on the left side
+* (optional: use one additional **Grenade** by duplicating the last one. According
+  to [Elastoid](https://www.speedrun.com/shadowrun_snes/thread/rpdxf) this will 
+  result in an underflow and at this point no further **Grenade**s can be
+  purchased)
 * Kill all enemies (**Gang Leader** and **Gang member** should die first)
 * Exit dialogue with **Gang Leader** (*Drake*)
 * **Pick up** **Password**
@@ -472,7 +482,7 @@ Time `0:34:14` Delta `03:15`
 * Go northwest
 * Enter **Wastelands Club**
 * **Interact** with **A Busy Man**
-* **Ask about** **Ice** (Yes, -100¥)
+* **Ask about** *Ice* (Yes, -100¥)
 * **Ask about** *Docks*
 * Exit
 * Leave **Wastelands Club**
@@ -528,7 +538,8 @@ Time `0:34:14` Delta `03:15`
 * Go east
 * Go east
 * Go east
-* **Kitsune**:  **Cast Spell** **Summon spirit lvl 5** 
+* **Kitsune**: **Cast Spell** **Summon spirit lvl 5** (when necessary; more than
+  one enemy)
 * Clear floor
 * Go east (**Use** **Switch** to open door)
 * Go east
@@ -545,7 +556,8 @@ Time `0:34:14` Delta `03:15`
 * **Kitsune**:  **Cast Spell** **Summon spirit lvl 5** 
 * Until bombs stop dropping
 * Get close to **Jester Spirit**
-* **Interact** with **Jester Spirit**
+* **Interact** with **Jester Spirit** (after dealing enough damage; wait for red
+  dialogue box)
 * **Ask about** **Laughlyn**
 * **Interact** with **Jester Spirit**
 * **Ask about** *Drake* (*Volcano*)
