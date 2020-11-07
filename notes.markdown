@@ -1,53 +1,53 @@
 ---
+title: Route [1:13:26 - Elastoid](https://www.twitch.tv/videos/751406056?collection=DfL3CcjBNhbLsQ)
+author: by [glitchedDoku](https://www.speedrun.com/user/glitchedDoku)
 toc: true
-include-before: | 
-  # Route [1:13:26 - Elastoid](https://www.twitch.tv/videos/751406056?collection=DfL3CcjBNhbLsQ) <br/>  Maintained by [glitchedDoku](https://www.speedrun.com/user/glitchedDoku)
-    ---
-  ## Foreword
-    
-  This is a guide for everyone wanting to learn how spreedrun Shadowrun on SNES (or emulators) in the "Any%" category. 
-  I first stumbled about Shadowrun on the [reddit (r/speedrun) post](https://www.reddit.com/r/speedrun/comments/iwx2ce/shadowrun_snes_any_in_11544/) of Elastoid claiming to found a new route to break the two years old record. After that I tried the game and saw that it is fun and a game that I possibly want to speedrun. However, the [guides section](https://www.speedrun.com/shadowrun_snes/guides) on [speedrun.com](https://www.speedrun.com) had no explainition of any route.
-  
-  So this is the first attempt to create the first guide for a Shadowrun route to get other people into running Shadowrun "Any%". For the better or worse. We will see...
-  
-  Any contributions are welcome! Tell me what is wrong and what can be done 
-  better by submitting changes via [github page](https://github.com/glitchedDoku/shadowrun_snes_notes) or the 
-  [forum](https://www.speedrun.com/shadowrun_snes/thread/rpdxf).
-  
-  **Disclaimer**: This is a work in progress document.
-  While writing this route guide [Elastoid](https://www.twitch.tv/elastoid) broke the [world record again](https://www.twitch.tv/videos/757197125). The route for both records should be the same (Is this really true?).
-  
-  ******
-  ## To-Do
-  
-  * Special tricks and movement
-   * In this document are a lot of hyperlinks which do not refer to any url. The idea is to have a extra page for special tricks or movements needed during the run. Best would be to have some videos. This idea is inspired by the [SM64 Guides by GothicLogic](https://www.speedrun.com/sm64/guide/cxkjo).
-  * Hacking computer
-  	* reformat or restructure
-    * add maps or in-game pictures
-  * Generate website or/and Github page
-    * This should allow others to directly contribute to this document. This should be a community effort.
-  * Correct names of items and character
-  * Rethink the structure of directing people
-  	* For example, is it always unterstandable what northeast means?
-  * Work on headlines and structure of the document
-  	* Add/Remove split times (?)
-  	* Bulleted lists; any good (?)
-  	* Grammar and spelling (sorry, English isn't my first language)
-  
-  ******
-  ## Table of contents
+toc-title: Table of Contents
+
 ---
 
-******
-## General Stuff
+# Foreword
+This is a guide for everyone wanting to learn how to spreedrun Shadowrun on SNES (or emulators) in the "Any%" category. 
+I first stumbled about Shadowrun on the [reddit (r/speedrun) post](https://www.reddit.com/r/speedrun/comments/iwx2ce/shadowrun_snes_any_in_11544/) of Elastoid claiming to found a new route to break the two years old record. After that I tried the game and saw that it is fun and a game that I possibly want to speedrun. However, the [guides section](https://www.speedrun.com/shadowrun_snes/guides) on [speedrun.com](https://www.speedrun.com) had no explainition of any route.
 
-### Resouces
-#### Casual
+So this is the first attempt to create the first guide for a Shadowrun route to get other people into running Shadowrun "Any%". For the better or worse. We will see...
+
+Any contributions are welcome! Tell me what is wrong and what can be done 
+better by submitting changes via [github page](https://github.com/glitchedDoku/shadowrun_snes_notes) or the 
+[forum](https://www.speedrun.com/shadowrun_snes/thread/rpdxf).
+
+**Disclaimer**: This is a work in progress document.
+ While writing this route guide [Elastoid](https://www.twitch.tv/elastoid) broke the [world record again](https://www.twitch.tv/videos/757197125). The route for both records should be the same (Is this really true?).
+
+******
+ 
+## To-Do
+ 
+ * Special tricks and movement
+  * In this document are a lot of hyperlinks which do not refer to any url. The idea is to have a extra page for special tricks or movements needed during the run. Best would be to have some videos. This idea is inspired by the [SM64 Guides by GothicLogic](https://www.speedrun.com/sm64/guide/cxkjo).
+ * Hacking computer
+ 	* reformat or restructure
+   * add maps or in-game pictures
+ * Generate website or/and Github page
+   * This should allow others to directly contribute to this document. This should be a community effort.
+ * Correct names of items and character
+ * Rethink the structure of directing people
+ 	* For example, is it always unterstandable what northeast means?
+ * Work on headlines and structure of the document
+ 	* Add/Remove split times (?)
+ 	* Bulleted lists; any good (?)
+ 	* Grammar and spelling (sorry, English isn't my first language)
+ 
+******
+
+# General Stuff
+
+## Resouces
+### Casual
 * [Guide and Walkthrough by Admiral](https://gamefaqs.gamespot.com/snes/588651-shadowrun/faqs/19826)
 	* Very detailed guide
 
-#### For Speedrunning
+### For Speedrunning
 * [World Record Route Guide with Elastoid and Edgeworth](https://www.twitch.tv/videos/754351994)
 	* Explenation of all tricks and route changes compared to the previous world records
 * [[Youtube] Item Duplication Glitch Tutorial by StuntCoyote](https://www.youtube.com/watch?v=IKTXeDWGblE&feature=emb_title)
@@ -56,7 +56,7 @@ include-before: |
 * [Speedrun.com Guides](https://www.speedrun.com/shadowrun_snes/guides)
 
 
-#### Legend
+### Legend
 The whole guide is oraganized in a big bulleted list.  
 **Interaction option**, **Item name** or **Person name** are highlighted in bold.  
 *Keyword* are highlighted in italic, while newly learned keywords are highlighted as this: (*Learned Keyword*).  
@@ -65,7 +65,7 @@ explaining them. For now, none of these tricks contain hyperlinks, i.e. clicking
 them will **not** redirect you somewhere. Feel free to contribute to these
 resources!
 
-#### Special Meanings
+### Special Meanings
 For the sake of brevity I would like to shorten some "Interaction options" in the following way:
 
 | Action | Meaning | Explenation |
@@ -74,12 +74,12 @@ For the sake of brevity I would like to shorten some "Interaction options" in th
 | **Talk to**           | **Interact with** + **Talk** in dialogue menu | ... or also "talk" in dialogue menu.
 
 ******
-## The Route
+# The Route
 
 Time begins with "Start New Game" select.
 
 ******
-### Tenth Street (Morgue)
+## Tenth Street (Morgue)
 
 * Pick up **Scalpel**
 * Pick up [**Slap Patch**]()
@@ -87,7 +87,7 @@ Time begins with "Start New Game" select.
 
 Time: `0:00:45` Delta: `00:45`
 
-### Tenth Street (Street)
+## Tenth Street (Street)
 
 * **Talk** to Guy (*Hitman* and *Firearm*)
 * Open **Broken Gate**
@@ -117,7 +117,7 @@ Time `0:01:45` Delta: `01:00`
 
 Time `0:02:43` Delta: `00:58`
 
-#### Grim Reaper Club
+### Grim Reaper Club
 
 * Go north west and enter **Grim Reaper Club**
  * **Interact** with **Club Manager** (no need to **talk**)
@@ -134,7 +134,7 @@ Time `0:02:43` Delta: `00:58`
 
 Time `0:03:33` Delta `00:50`
 
-#### **Business Man** and First Duplicate
+### **Business Man** and First Duplicate
 
 * Enter red building
 * Enter door at end of floor
@@ -145,7 +145,7 @@ Time `0:03:33` Delta `00:50`
 
 Time `0:04:17` Delta `00:44`
 
-#### Glutman's Office Building
+### Glutman's Office Building
 
 * Go a bit southeast
 * Enter Glutman's office building
@@ -154,7 +154,7 @@ Time `0:04:17` Delta `00:44`
 * Leave + equip **Leather Jacket** and **ID badge** (equipping **ID badge** will
   leave inventory)
 
-#### Morgue (Second Time)
+### Morgue (Second Time)
 * Go northeast to morgue (upper [sidewalk]())
 * Enter morgue
 * **Ask about** *Grinder* to lower right of the both **Mortician**s
@@ -168,7 +168,7 @@ Time `0:04:17` Delta `00:44`
 
 Time `0:05:20` Delta `01:03`
 
-#### Graveyard + Club
+### Graveyard + Club
 
 * Run southwest (upper [sidewalk]())
 * Run northwest - north ([middle of the street]())
@@ -189,7 +189,7 @@ Time `0:05:20` Delta `01:03`
 Time `0:06:56` Delta `01:36`
 
 ******
-### Caryard
+## Caryard
 
 * Go southeast
 * **Interact** with **Gang member** (*Caryards*)
@@ -197,19 +197,19 @@ Time `0:06:56` Delta `01:36`
 * Go east
 * **Talk to** **Arena owner**
 
-#### First Fight
+### First Fight
 
 * Lure **Gang member** into barrel and kill him
 * **Talk to** **Arena owner**
 
-#### Second Fight
+### Second Fight
 
 * Move a little bit north
 * Deal at least 1 dmg to **Heavy Dude** to [turn him red]() (he will move south)
 * Kill him from a safe distance
 * **Talk to** **Arena owner**
 
-#### Third Fight
+### Third Fight
 * Strat 1:
 	* **Use** **Grenade** on **Heavy Dude** to [turn him red]() (at least 6 dmg needed)
 	* Kill him from a safe distance
@@ -220,7 +220,7 @@ Time `0:06:56` Delta `01:36`
 	* Kill him from a safe distance
 	* **Ask about** *King*
 	
-#### King Fight
+### King Fight
 
 * **Use** five (strat 1) or six (strat 2) **Grenade**s on **King** to [turn him red]()
 * Kill **King** from safe distance
@@ -239,8 +239,8 @@ Time `0:06:56` Delta `01:36`
 Time `0:09:48` Delta `02:52`
 
 ******
-### Weapon + Armor + Bottles
-#### Vivyan's Weapon Shop
+## Weapon + Armor + Bottles
+### Vivyan's Weapon Shop
 * Go southeast
 * Go southwest
 * Go west
@@ -254,7 +254,7 @@ Time `0:09:48` Delta `02:52`
 * **Buy** **Grenade** six times (-600¥)
 * Leave
 
-#### Talisman Shop
+### Talisman Shop
 * Enter **Talisman Shop**
 * **Buy** **Sharp Wooden stake** (-2,500¥)
 * **Interact** with **Indian Shaman** (*Talismans*)
@@ -266,9 +266,9 @@ Time `0:09:48` Delta `02:52`
 Time `14:01` Delta `04:13`
  
 ******
-### Cortex Bomb
+## Cortex Bomb
 
-#### Ed's Patch'n'Fix
+### Ed's Patch'n'Fix
 * Go southeast (upper sidewalk)
 * Enter backstreet
 * Enter **Ed's Patch'n'Fix**
@@ -282,7 +282,7 @@ Time `14:01` Delta `04:13`
 * **Hiring** (-500¥)
 * Leave
 
-#### Water Fountain
+### Water Fountain
 * Enter subway station
 * Go northeast + take sub to **Tenth Street Station**
 * Go southwest
@@ -295,7 +295,7 @@ Time `14:01` Delta `04:13`
 * Take train
 * Go west
 
-#### Cortex Bomb
+### Cortex Bomb
 * Take train to **Daley Station**
 * Go southeast
 * Fight two **Ferocious orcs**
@@ -318,7 +318,7 @@ Time `14:01` Delta `04:13`
 Time `0:19:16` Delta `05:15`
 
 ******
-### The Gang
+## The Gang
 
 * Go west
 * Cross street
@@ -353,7 +353,7 @@ Time `0:19:16` Delta `05:15`
 Time `0:22:55` Delta `03:39`
 
 ******
-### The Rat
+## The Rat
 * Go southeast
 * Go southeast
 * Go west
@@ -401,7 +401,7 @@ Time `0:22:55` Delta `03:39`
 Time `0:28:35` Delta `05:40`
 
 ******
-### Vampire - Shopping and Leveling
+## Vampire - Shopping and Leveling
 * Go northwest
 * Kill **Norbert** (if not already dead)
 * Go west
@@ -441,7 +441,7 @@ Time `0:28:35` Delta `05:40`
 Time `0:30:49` Delta `02:14`
 
 ******
-### Dark Blade Mansion
+## Dark Blade Mansion
 
 * Go southeast
 * Go southeast
@@ -468,8 +468,8 @@ Time `0:30:49` Delta `02:14`
 Time `0:34:14` Delta `03:15`
 
 ******
-### Bremerton
-#### Duplicating + Docks
+## Bremerton
+### Duplicating + Docks
 
 * Go east
 * Enter **Weapon Shop**
@@ -498,7 +498,7 @@ Time `0:34:14` Delta `03:15`
 * **Ask about** **Bremerton** (Yes, -1,000¥)
 * Enter **Boat**
 
-#### On Ship
+### On Ship
 
 * Go northeast
 * Go northeast and back southwest on upper floor
@@ -549,7 +549,7 @@ Time `0:34:14` Delta `03:15`
 * Enter portal northeast
 
 ******
-### Jester Spirit
+## Jester Spirit
 * Take upper path
 * Go east
 * Go northeast (past indestructible slim)
@@ -568,7 +568,7 @@ Time `0:34:14` Delta `03:15`
 Time `0:44:09` Delta `09:55`
 
 ******
-### Drake Tower
+## Drake Tower
 * Go northeast
 * Go northwest
 * Enter second **Door** (right-hand side)
@@ -597,7 +597,7 @@ Time `0:44:09` Delta `09:55`
 * Go southeast
 * Enter **Drake Tower**
 
-#### 1st Floor
+### 1st Floor
 
 * Kill **Mage**
 * **Use** **Cyberdeck** on **Computer**
@@ -613,7 +613,7 @@ Time `0:44:09` Delta `09:55`
 * Exit
 * Enter elevator
 
-#### 2nd Floor
+### 2nd Floor
 
 * **Cast** **Invisibility** on **Kitsune**
 * **Kitsune**: **Cast spell** on **Me**
@@ -639,7 +639,7 @@ Time `0:44:09` Delta `09:55`
 * **Kitsune**: **Cast spell** on **Me**
 * Leave to elevator 
 
-#### 3rd Floor
+### 3rd Floor
 
 * Kill all enemies (**Kitsune**: **Cast spell** **Summon Spirit**)
 * **Decker**: **Use** **Cyberdeck** on **Computer**
@@ -666,7 +666,7 @@ Time `0:44:09` Delta `09:55`
 
 * Leave via elevator
 
-#### 4th Floor
+### 4th Floor
 
 * **Cast** **Invisibility** on **Kitsune**
 * **Kitsune**: **Cast spell** on **Me**
@@ -691,7 +691,7 @@ Time `0:44:09` Delta `09:55`
 * Exit
 * Leave via elevator
 
-#### 5th Floor
+### 5th Floor
 
 * Kill all enemies (**Kitsune**: **Cast spell** **Summon Spirit**, **Cast spell** **Invisibility** on **Me** and **Kitsune**)
 * **Decker**: **Use** **Cyberdeck** on **Computer**
@@ -727,7 +727,7 @@ Time `0:44:09` Delta `09:55`
 * Exit
 * Leave via elevator
 
-#### 6th Floor
+### 6th Floor
 
 * **Cast** **Invisibility** on **Kitsune**
 * **Kitsune**: **Cast spell** on **Me**
@@ -743,13 +743,13 @@ Time `0:44:09` Delta `09:55`
 * Exit
 * Leave via elevator
 
-#### Rooftop
+### Rooftop
 
 * Go east
 * **Interact** with **Helicopter Pilot**
 * **Ask about** **Volcano**
 
-### Volcano
+## Volcano
 
 * Go northeast
 * Go north
@@ -855,7 +855,7 @@ Time `0:44:09` Delta `09:55`
 Time `1:01:10` Delta `17:01`
 
 ******
-### Grand Finale
+## Grand Finale
 
 * Go down all elevators
 * Leave building
@@ -892,7 +892,7 @@ Time `1:01:10` Delta `17:01`
 * Go northeast
 * Enter Volcano Tower without fighting
 
-#### 1st Floor
+### 1st Floor
 * **Use** **Cyberdeck** on **Computer**
 
   - &rarr; &rarr;
@@ -906,7 +906,7 @@ Time `1:01:10` Delta `17:01`
 * **Kill** **Steelflight**
 * Enter elevator
 
-#### 2nd Floor
+### 2nd Floor
 * Go northwest
 * **Cast** **Invisibility** on **Me**
 * Kill all enemies
@@ -995,7 +995,7 @@ Time `1:01:10` Delta `17:01`
 * Go northwest
 * Enter [elevator]()
 
-#### 3rd Floor
+### 3rd Floor
 
 * Go northeast
 * **Cast** **Invisibility** on **Me**
@@ -1040,7 +1040,7 @@ Time `1:01:10` Delta `17:01`
 * Go southeast
 * Enter [elevator]()
  
-#### 4th Floor
+### 4th Floor
 
 * Go northwest
 * **Cast** **Invisibility** on **Me**
@@ -1078,7 +1078,7 @@ Time `1:01:10` Delta `17:01`
 * Go southeast
 * Enter [elevator]()
 
-#### 5th Floor
+### 5th Floor
 
 * **Cast** **Invisibility** on **Me**
 * Kill all enemies

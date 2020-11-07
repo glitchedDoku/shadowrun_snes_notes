@@ -6,5 +6,5 @@ Feel free to contribute to this project/guide!
 
 ## Generate HTML for [githubpage](https://glitcheddoku.github.io/shadowrun_snes_notes/)
 ```
-pandoc -s --toc notes.markdown -o index.html
+pandoc -s --toc --toc-depth=2 notes.markdown -o index.html
 ```
