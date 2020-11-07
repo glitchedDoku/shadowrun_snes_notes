@@ -7,8 +7,8 @@ toc-title: Table of Contents
 ---
 
 # Foreword
-This is a guide for everyone wanting to learn how to spreedrun Shadowrun on SNES (or emulators) in the "Any%" category. 
-I first stumbled about Shadowrun on the [reddit (r/speedrun) post](https://www.reddit.com/r/speedrun/comments/iwx2ce/shadowrun_snes_any_in_11544/) of Elastoid claiming to found a new route to break the two years old record. After that I tried the game and saw that it is fun and a game that I possibly want to speedrun. However, the [guides section](https://www.speedrun.com/shadowrun_snes/guides) on [speedrun.com](https://www.speedrun.com) had no explainition of any route.
+This is a guide for everyone wanting to learn how to speedrun Shadowrun on SNES (or emulators) in the "Any%" category. 
+I first stumbled about Shadowrun on the [reddit (r/speedrun) post](https://www.reddit.com/r/speedrun/comments/iwx2ce/shadowrun_snes_any_in_11544/) of Elastoid claiming to found a new route to break the two years old record. After that I tried the game and saw that it is fun and a game that I possibly want to speedrun. However, the [guides section](https://www.speedrun.com/shadowrun_snes/guides) on [speedrun.com](https://www.speedrun.com) had no explanation of any route.
 
 So this is the first attempt to create the first guide for a Shadowrun route to get other people into running Shadowrun "Any%". For the better or worse. We will see...
 
@@ -42,7 +42,7 @@ better by submitting changes via [github page](https://github.com/glitchedDoku/s
 
 # General Stuff
 
-## Resouces
+## Resources
 ### Casual
 * [Guide and Walkthrough by Admiral](https://gamefaqs.gamespot.com/snes/588651-shadowrun/faqs/19826)
 	* Very detailed guide
