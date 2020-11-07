@@ -32,7 +32,7 @@ better by submitting changes via [github page](https://github.com/glitchedDoku/s
    * This should allow others to directly contribute to this document. This should be a community effort.
  * Correct names of items and character
  * Rethink the structure of directing people
- 	* For example, is it always unterstandable what northeast means?
+ 	* For example, is it always understandable what northeast means?
  * Work on headlines and structure of the document
  	* Add/Remove split times (?)
  	* Bulleted lists; any good (?)
@@ -49,7 +49,7 @@ better by submitting changes via [github page](https://github.com/glitchedDoku/s
 
 ### For Speedrunning
 * [World Record Route Guide with Elastoid and Edgeworth](https://www.twitch.tv/videos/754351994)
-	* Explenation of all tricks and route changes compared to the previous world records
+	* Explanation of all tricks and route changes compared to the previous world records
 * [[Youtube] Item Duplication Glitch Tutorial by StuntCoyote](https://www.youtube.com/watch?v=IKTXeDWGblE&feature=emb_title)
 	* One of the most important tricks
 * [Speedrun.com Leaderboards](https://www.speedrun.com/shadowrun_snes/)
@@ -57,7 +57,7 @@ better by submitting changes via [github page](https://github.com/glitchedDoku/s
 
 
 ### Legend
-The whole guide is oraganized in a big bulleted list.  
+The whole guide is organized in a big bulleted list.  
 **Interaction option**, **Item name** or **Person name** are highlighted in bold.  
 *Keyword* are highlighted in italic, while newly learned keywords are highlighted as this: (*Learned Keyword*).  
 [Speedrunning tricks]() should contain hyperlinks to videos or other resources
@@ -68,7 +68,7 @@ resources!
 ### Special Meanings
 For the sake of brevity I would like to shorten some "Interaction options" in the following way:
 
-| Action | Meaning | Explenation |
+| Action | Meaning | Explanation |
 | :------ | :------ | :------ |
 | **Interact with** | Select Character and **Talk** | Better to distinguish when to "talk" to character... 
 | **Talk to**           | **Interact with** + **Talk** in dialogue menu | ... or also "talk" in dialogue menu.
@@ -110,7 +110,7 @@ Time `0:01:45` Delta: `01:00`
 * Go south
 * Pick up **Beretta Pistol** and equip it and equip **Shades** (equipping
   **Shades** will leave inventory
-* Kill orc
+* Kill Orc
 * **Examine** Orc and pick up **Leather Jacket**
 * Run west and [**talk** to Dog]()
 * Leave area
@@ -623,7 +623,7 @@ Time `0:44:09` Delta `09:55`
   - &rarr; &rarr; &rarr; &rarr;
   - &uarr; &uarr; &uarr; &uarr;
   - &larr; &larr;
-  - defuse(uppper)
+  - defuse(upper)
   -
   - &rarr; &rarr;
   - &darr; &darr; &darr; &darr;
@@ -676,7 +676,7 @@ Time `0:44:09` Delta `09:55`
   - &rarr; &rarr;&rarr; &rarr;
   - &uarr; &uarr; &uarr; &uarr;
   - &larr; &larr;
-  - defuse(uppper)
+  - defuse(upper)
   - 
   - &rarr; &rarr;
   - &darr; &darr; &darr; &darr;
